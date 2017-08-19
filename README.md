@@ -9,6 +9,4 @@ Learning React with Redux with [Udemy](https://www.udemy.com/react-redux/)
 > cd learning-react-redux
 > npm install
 > npm start
-> npm install
-> npm start
 ```
