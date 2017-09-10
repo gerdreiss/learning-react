@@ -1,12 +1,12 @@
-# learning-react-redux
+# learning-react
 
-Learning React with Redux with [Udemy](https://www.udemy.com/react-redux/)
+Learning React with [Udemy](https://www.udemy.com/react-redux/)
 
 ### Getting Started
 
 ```
-> git clone https://github.com/gerdreiss/learning-react-redux.git
-> cd learning-react-redux
+> git clone https://github.com/gerdreiss/learning-react.git
+> cd learning-react
 > npm install
 > npm start
 ```
